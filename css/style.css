@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+#res{
+    padding-left: 150px;
+}
+.mov{
+    padding-left: 250px;
+}
+.Target{
+    padding: 5px;
+    border: 1px solid rgb(138, 170, 240);
+}
+.Target:hover{
+    transition: .5s all ease-in-out;
+    border: 2px solid rgb(75, 132, 255);
+}
+.target-action a{
+list-style: none;
+font-style: none;
+text-decoration: none;
+font-size: 20px;
+color: tomato;
+}
+.target-action a:hover{
+    color: rgb(250, 64, 31);
+    font-weight: 700;
+}
