@@ -14,7 +14,7 @@ h1{
 }
 .Target:hover{
     transition: .5s all ease-in-out;
-    border: 2px solid rgb(75, 132, 255);
+    border: 2px solid rgb(58, 109, 219);
 }
 .target-action a{
 list-style: none;
